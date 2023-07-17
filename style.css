@@ -230,7 +230,7 @@ a{
 .gallery{
     display: flex;
     background-color: white;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
      border: 1px solid transparent;
 }
